@@ -1,0 +1,12 @@
+# Ignorar archivos de credenciales y tokens
+credentials.json
+token.json
+
+# Ignorar el entorno virtual
+photo-api/
+
+# Ignorar directorios específicos de Python y del entorno virtual
+__pycache__/
+*.py[cod]
+.vscode/
+.env/
